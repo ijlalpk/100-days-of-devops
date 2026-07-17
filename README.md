@@ -58,4 +58,4 @@ Follow the journey on LinkedIn: **#100DaysOfDevOps**
 
 ---
 
-*Maintained by [Ijlal (@ijlalpk)](https://github.com/ijlalpk) · Started: ____ · Target finish: Day 100 on ____*
+*Maintained by [Ijlal (@ijlalpk)](https://github.com/ijlalpk) · Started: 17th july · Target finish: Day 100 on 26th January *
